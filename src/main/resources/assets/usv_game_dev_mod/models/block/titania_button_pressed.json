@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "usv_game_dev_mod:block/titania_planks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "usv_game_dev_mod:block/titania_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "usv_game_dev_mod:block/titania_log_top",
+    "side": "usv_game_dev_mod:block/titania_log"
+  }
+}

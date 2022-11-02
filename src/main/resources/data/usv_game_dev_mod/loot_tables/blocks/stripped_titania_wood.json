@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "usv_game_dev_mod:stripped_titania_wood"
+        }
+      ]
+    }
+  ]
+}

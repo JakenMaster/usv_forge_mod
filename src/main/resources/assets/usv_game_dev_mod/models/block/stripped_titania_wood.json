@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "usv_game_dev_mod:block/stripped_titania_log",
+    "side": "usv_game_dev_mod:block/stripped_titania_log"
+  }
+}

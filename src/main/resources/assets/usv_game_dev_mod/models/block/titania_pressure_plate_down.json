@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_down",
+  "textures": {
+    "texture": "usv_game_dev_mod:block/titania_planks"
+  }
+}

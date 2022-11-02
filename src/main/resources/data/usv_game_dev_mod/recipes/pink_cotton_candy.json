@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cotton_candy",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "tag": "minecraft:cotton_candy"
+    }
+  ],
+  "result": {
+    "item": "usv_game_dev_mod:pink_cotton_candy"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "item.usv_game_dev_mod.fairy_dust": "Fairy Dust",
+  "item.usv_game_dev_mod.fire_fairy_bottle": "Fire Fairy Bottle",
+  "item.usv_game_dev_mod.ice_fairy_bottle": "Ice Fairy Bottle",
+  "item.usv_game_dev_mod.poison_fairy_bottle": "Poison Fairy Bottle",
+  "item.usv_game_dev_mod.bomb_fairy_bottle": "Bomb Fairy Bottle",
+  "item.usv_game_dev_mod.butter": "Butter",
+  "item.usv_game_dev_mod.light_blue_cotton_candy": "Light Blue Cotton Candy",
+  "item.usv_game_dev_mod.pink_cotton_candy": "Pink Cotton Candy",
+
+  "block.usv_game_dev_mod.titania_wood": "Titania Wood",
+  "block.usv_game_dev_mod.titania_log": "Titania Log",
+  "block.usv_game_dev_mod.stripped_titania_wood": "Stripped Titania Wood",
+  "block.usv_game_dev_mod.stripped_titania_log": "Stripped Titania Log",
+  "block.usv_game_dev_mod.titania_planks": "Titania Planks",
+  "block.usv_game_dev_mod.titania_leaves": "Titania Leaves",
+  "block.usv_game_dev_mod.titania_sapling": "Titania Sapling",
+  "block.usv_game_dev_mod.titania_slab": "Titania Slab",
+  "block.usv_game_dev_mod.titania_stairs": "Titania Stairs",
+  "block.usv_game_dev_mod.titania_fence": "Titania Fence",
+  "block.usv_game_dev_mod.titania_fence_gate": "Titania Fence Gate",
+  "block.usv_game_dev_mod.titania_button": "Titania Button",
+  "block.usv_game_dev_mod.titania_pressure_plate": "Titania Pressure Plate"
+}

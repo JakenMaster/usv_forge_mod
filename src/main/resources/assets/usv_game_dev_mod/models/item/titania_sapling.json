@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "usv_game_dev_mod:block/titania_sapling"
+  }
+}

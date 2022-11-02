@@ -1,6 +1,8 @@
 package net.joe.usv_game_dev_mod;
 
 import com.mojang.logging.LogUtils;
+import net.joe.usv_game_dev_mod.block.ModBlocks;
+import net.joe.usv_game_dev_mod.item.ModItems;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.api.distmarker.Dist;
@@ -23,6 +25,9 @@ public class USVMod {
     public USVMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "usv_game_dev_mod:block/titania_slab"
+    },
+    "type=double": {
+      "model": "usv_game_dev_mod:block/titania_planks"
+    },
+    "type=top": {
+      "model": "usv_game_dev_mod:block/titania_slab_top"
+    }
+  }
+}

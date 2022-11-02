@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "usv_game_dev_mod:block/titania_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "usv_game_dev_mod:block/titania_wood"
+    },
+    "axis=z": {
+      "model": "usv_game_dev_mod:block/titania_wood",
+      "x": 90
+    }
+  }
+}

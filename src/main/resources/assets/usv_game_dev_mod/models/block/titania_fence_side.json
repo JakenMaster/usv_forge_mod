@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "usv_game_dev_mod:block/titania_planks"
+  }
+}

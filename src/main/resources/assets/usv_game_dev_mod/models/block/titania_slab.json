@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "usv_game_dev_mod:block/titania_planks",
+    "side": "usv_game_dev_mod:block/titania_planks",
+    "top": "usv_game_dev_mod:block/titania_planks"
+  }
+}

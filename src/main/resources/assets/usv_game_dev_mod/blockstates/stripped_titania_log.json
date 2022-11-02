@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "usv_game_dev_mod:block/stripped_titania_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "usv_game_dev_mod:block/stripped_titania_log"
+    },
+    "axis=z": {
+      "model": "usv_game_dev_mod:block/stripped_titania_log_horizontal",
+      "x": 90
+    }
+  }
+}

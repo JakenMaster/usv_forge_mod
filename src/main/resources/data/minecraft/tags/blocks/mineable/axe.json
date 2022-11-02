@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "usv_game_dev_mod:titania_wood",
+    "usv_game_dev_mod:titania_log",
+    "usv_game_dev_mod:stripped_titania_wood",
+    "usv_game_dev_mod:stripped_titania_log",
+    "usv_game_dev_mod:titania_planks"
+  ]
+}
